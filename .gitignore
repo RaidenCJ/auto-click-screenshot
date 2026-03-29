@@ -1,0 +1,9 @@
+# Config with sensitive data
+auto_click_config.json
+
+# Screenshots
+auto_click_screenshots/
+
+# Windows
+Thumbs.db
+Desktop.ini
