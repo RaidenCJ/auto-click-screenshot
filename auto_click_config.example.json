@@ -1,0 +1,15 @@
+{
+    "app_id": "cli_your_app_id",
+    "app_secret": "your_app_secret",
+    "user_id": "ou_your_user_id",
+    "webhook_url": "YOUR_WEBHOOK_URL",
+    "coordinates": [
+        { "x": 100, "y": 100 },
+        { "x": 200, "y": 200 },
+        { "x": 300, "y": 300 },
+        { "x": 400, "y": 400 },
+        { "x": 500, "y": 500 }
+    ],
+    "click_interval": 3,
+    "last_updated": "2026-03-29 00:00:00"
+}
